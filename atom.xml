@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://jasminethai.github.com/atom.xml" rel="self"/>
-  <link href="http://jasminethai.github.com/"/>
-  <updated>2013-01-08T03:05:49+00:00</updated>
-  <id>http://jasminethai.github.com/</id>
+  <title><![CDATA[Jasmine Thai Restaurant]]></title>
+  <link href="http://www.jasminethaiindy.com/atom.xml" rel="self"/>
+  <link href="http://www.jasminethaiindy.com/"/>
+  <updated>2013-01-08T03:16:07+00:00</updated>
+  <id>http://www.jasminethaiindy.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jasmine Thai]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

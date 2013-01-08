@@ -1,15 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://jasminethai.github.com/</loc>
+        <loc>http://www.jasminethaiindy.com/</loc>
         <lastmod>2013-01-08T02:43:37+00:00</lastmod>
     </url>
     <url>
-        <loc>http://jasminethai.github.com/blog/archives/</loc>
+        <loc>http://www.jasminethaiindy.com/lunchspecials/</loc>
+        <lastmod>2013-01-08T03:15:24+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.jasminethaiindy.com/map/</loc>
+        <lastmod>2013-01-08T03:15:37+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.jasminethaiindy.com/blog/archives/</loc>
         <lastmod>2013-01-08T02:43:37+00:00</lastmod>
     </url>
     <url>
-        <loc>http://jasminethai.github.com/robots.txt</loc>
+        <loc>http://www.jasminethaiindy.com/photos/</loc>
+        <lastmod>2013-01-08T03:15:52+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.jasminethaiindy.com/robots.txt</loc>
         <lastmod>2013-01-08T02:43:37+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.jasminethaiindy.com/menu/</loc>
+        <lastmod>2013-01-08T03:15:00+00:00</lastmod>
     </url>
 </urlset>
